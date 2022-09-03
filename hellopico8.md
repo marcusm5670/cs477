@@ -1,4 +1,4 @@
-# marcusm5670.github.io
+# hellopico8
 Repo for PICO-8 projects and assignments
 
 This is me loading up a cartridge

@@ -1,1 +1,2 @@
-other readme file just in case the first doesn't work
+# marcusm5670.github.io
+Repo for PICO-8 projects and assignments
